@@ -148,6 +148,7 @@
 	transform: translateX(-50%) rotate(-45deg);
 	border: 1px solid cyan;
 	animation: flow 1.5s infinite;
+    padding: 15px;
 }
 
 @keyframes flow {
